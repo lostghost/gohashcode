@@ -1,0 +1,1 @@
+Provides a go implementation of java's hashCode function.
